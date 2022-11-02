@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @th0ng
-- 👀 I’m interested and currently learning in Web Development
-- 💞️ I’m looking for a job
+- 👋 Hi, I’m @th0ng.
+- 👀 I’m interested and currently learning Full-Stack.
+- 💞️ I’m looking for a job..
 - 📫 How to reach me thonghoangdanh@gmail.com
 
 <!---
