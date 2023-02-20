@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @th0ng.
 - 👀 I’m interested and currently learning Full-Stack.
+- [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 - 💞️ I’m looking for a job..
 - 📫 How to reach me thonghoangdanh@gmail.com
 
