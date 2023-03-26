@@ -1,3 +1,5 @@
+[![Thong's GitHub stats](https://github-readme-stats.vercel.app/api?username=th0ng)](https://github.com/anuraghazra/github-readme-stats)
+
 - 👋 Hi, I’m @th0ng.
 - 👀 I’m interested and currently learning Full-Stack.
 - 📫 How to reach me thonghoangdanh@gmail.com
