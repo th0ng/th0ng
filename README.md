@@ -1,7 +1,5 @@
 # Hi there!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=th0ng&show_icons=true&theme=tokyonight)
-
 - 👋 Hi, I’m @th0ng, a fullstack developer and a Software Engineering student.
 - Find out more about me [here](https://thongzxje.netlify.app)
 
